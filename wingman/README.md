@@ -28,4 +28,4 @@ Your app should now be running on <http://localhost:3000>. The Express server sh
 
 To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
 
-https://git.heroku.com/cryptic-forest-66775.git
+https://cryptic-forest-66775.herokuapp.com/
