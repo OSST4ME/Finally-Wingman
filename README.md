@@ -1,2 +1,0 @@
-# Finally-Wingman
-Wingman App
